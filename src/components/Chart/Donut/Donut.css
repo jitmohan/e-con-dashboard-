@@ -1,0 +1,18 @@
+.donut {
+    display: flex;
+    justify-content: space-around;
+    width: 105%;
+    margin-right: 31%;
+    margin-left: 39%;
+    margin-top: 11%;
+}
+.featured{
+  width: 50%;
+}
+.title {
+    font-size: 1.5rem;
+}
+.stroke {
+    margin-left: 10%;
+    margin-right: 20%;
+}

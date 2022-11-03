@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.585" height="42" viewBox="0 0 44.585 42">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="44.585" height="42" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_3468" data-name="Path 3468" d="M7.711,0,1.348,7.326h8.736L16.666,0Z" transform="translate(-1.348)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.774" y1="0.538" x2="0.112" y2="0.386" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0091bd"/>
+      <stop offset="1" stop-color="#04485d"/>
+    </linearGradient>
+    <clipPath id="clip-path-4">
+      <path id="Path_3469" data-name="Path 3469" d="M166.639,0l6.531,7.326h8.7L175.629,0Z" transform="translate(-166.639)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.425" y1="0.189" x2="0.608" y2="0.962" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0091bc"/>
+      <stop offset="1" stop-color="#00495e"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <path id="Path_3470" data-name="Path 3470" d="M10.271,41.291l11.77,14.845h-8.7L1.575,41.291Z" transform="translate(-1.575 -41.291)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_134" data-name="Rectangle 134" width="20.466" height="14.939" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Path_3471" data-name="Path 3471" d="M1.575,41.291,22.041,56.23,10.271,41.291Z" transform="translate(-1.575 -41.291)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.014" y1="2.306" x2="-0.005" y2="2.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0095bf"/>
+      <stop offset="1" stop-color="#005f9d"/>
+    </linearGradient>
+    <clipPath id="clip-path-9">
+      <rect id="Rectangle_136" data-name="Rectangle 136" width="11.77" height="14.939" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Path_3472" data-name="Path 3472" d="M53.594,55.7,50.52,40.765,62.29,55.7Z" transform="translate(-50.52 -40.765)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="-0.763" y1="2.312" x2="-0.748" y2="2.312" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0094be"/>
+      <stop offset="1" stop-color="#005f9d"/>
+    </linearGradient>
+    <clipPath id="clip-path-11">
+      <path id="Path_3473" data-name="Path 3473" d="M37.417,0,55.142,22.159l8.73-.009L46.407,0Z" transform="translate(-37.417)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="26.5" height="22.159" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <path id="Path_3474" data-name="Path 3474" d="M37.164,0l26.5,22.124-8.73.035Z" transform="translate(-37.164)" fill="rgba(255,255,255,0)"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect id="Rectangle_142" data-name="Rectangle 142" width="17.465" height="22.172" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Path_3475" data-name="Path 3475" d="M88.018,0l8.838,22.172,8.627-.048Z" transform="translate(-88.018)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Path_3476" data-name="Path 3476" d="M85.8,0,68.339,22.15l8.73.009L94.794,0Z" transform="translate(-68.339)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-0.238" y1="1.393" x2="-0.232" y2="1.393" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005e9d"/>
+      <stop offset="1" stop-color="#0092bd"/>
+    </linearGradient>
+    <clipPath id="clip-path-20">
+      <path id="Path_3477" data-name="Path 3477" d="M94.838,0l-26.5,22.124,8.73.035Z" transform="translate(-68.338)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="-0.458" y1="1.885" x2="-0.451" y2="1.885" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0095bf"/>
+      <stop offset="0.917" stop-color="#00609e"/>
+      <stop offset="1" stop-color="#005f9d"/>
+    </linearGradient>
+    <clipPath id="clip-path-22">
+      <path id="Path_3478" data-name="Path 3478" d="M85.8,0,76.965,22.172l-8.627-.048Z" transform="translate(-68.338)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <path id="Path_3479" data-name="Path 3479" d="M148.938,41.291l-11.77,14.845h8.7l11.77-14.845Z" transform="translate(-137.168 -41.291)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="20.466" height="14.938" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <path id="Path_3480" data-name="Path 3480" d="M157.634,41.291,137.168,56.229l11.77-14.938Z" transform="translate(-137.168 -41.291)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="-1.191" y1="2.306" x2="-1.182" y2="2.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0091bc"/>
+      <stop offset="1" stop-color="#005d9c"/>
+    </linearGradient>
+    <clipPath id="clip-path-28">
+      <path id="Path_3481" data-name="Path 3481" d="M145.862,55.7l3.074-14.939L137.166,55.7Z" transform="translate(-137.166 -40.765)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-8" x1="-2.071" y1="2.312" x2="-2.055" y2="2.312" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0091bc"/>
+      <stop offset="1" stop-color="#74b3dd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2718" data-name="Group 2718" clip-path="url(#clip-path)">
+    <g id="Group_2657" data-name="Group 2657">
+      <g id="Group_2656" data-name="Group 2656" clip-path="url(#clip-path)">
+        <text id="COMPANY" transform="translate(11.972 28.077)" fill="#0b88dd" font-size="5" font-family="Gotham-Bold, Gotham" font-weight="700" letter-spacing="0.08em"><tspan x="0" y="0">E-CON</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2659" data-name="Group 2659" transform="translate(0.239)">
+      <g id="Group_2658" data-name="Group 2658" clip-path="url(#clip-path-3)">
+        <path id="Rectangle_130" data-name="Rectangle 130" d="M0,0,16.008.01l.01,16.008L.01,16.008Z" transform="translate(-3.668 3.663) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_2661" data-name="Group 2661" transform="translate(29.606)">
+      <g id="Group_2660" data-name="Group 2660" clip-path="url(#clip-path-4)">
+        <path id="Rectangle_131" data-name="Rectangle 131" d="M0,0,15.947.01l.01,15.947L.01,15.947Z" transform="translate(-3.668 3.663) rotate(-45)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_2663" data-name="Group 2663" transform="translate(0.28 7.327)">
+      <g id="Group_2662" data-name="Group 2662" clip-path="url(#clip-path-5)">
+        <path id="Rectangle_132" data-name="Rectangle 132" d="M0,0,24.966.016l.016,24.966L.016,24.966Z" transform="translate(-7.432 7.423) rotate(-45)" fill="#5b92b8"/>
+      </g>
+    </g>
+    <g id="Group_2675" data-name="Group 2675">
+      <g id="Group_2674" data-name="Group 2674" clip-path="url(#clip-path)">
+        <g id="Group_2668" data-name="Group 2668" transform="translate(0.28 7.327)" opacity="0.3">
+          <g id="Group_2667" data-name="Group 2667">
+            <g id="Group_2666" data-name="Group 2666" clip-path="url(#clip-path-7)">
+              <g id="Group_2665" data-name="Group 2665">
+                <g id="Group_2664" data-name="Group 2664" clip-path="url(#clip-path-8)">
+                  <rect id="Rectangle_133" data-name="Rectangle 133" width="20.466" height="14.939" fill="url(#linear-gradient-3)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2673" data-name="Group 2673" transform="translate(8.976 7.233)" opacity="0.2">
+          <g id="Group_2672" data-name="Group 2672">
+            <g id="Group_2671" data-name="Group 2671" clip-path="url(#clip-path-9)">
+              <g id="Group_2670" data-name="Group 2670">
+                <g id="Group_2669" data-name="Group 2669" clip-path="url(#clip-path-10)">
+                  <rect id="Rectangle_135" data-name="Rectangle 135" width="11.77" height="14.939" fill="url(#linear-gradient-4)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2677" data-name="Group 2677" transform="translate(6.648)">
+      <g id="Group_2676" data-name="Group 2676" clip-path="url(#clip-path-11)">
+        <path id="Rectangle_138" data-name="Rectangle 138" d="M0,0,34.373.022,34.4,34.4.022,34.373Z" transform="translate(-11.094 11.079) rotate(-45)" fill="#007db0"/>
+      </g>
+    </g>
+    <g id="Group_2689" data-name="Group 2689">
+      <g id="Group_2688" data-name="Group 2688" clip-path="url(#clip-path)">
+        <g id="Group_2682" data-name="Group 2682" transform="translate(6.603)" opacity="0.4">
+          <g id="Group_2681" data-name="Group 2681">
+            <g id="Group_2680" data-name="Group 2680" clip-path="url(#clip-path-13)">
+              <g id="Group_2679" data-name="Group 2679">
+                <g id="Group_2678" data-name="Group 2678" clip-path="url(#clip-path-14)">
+                  <rect id="Rectangle_139" data-name="Rectangle 139" width="26.5" height="22.159" fill="#0094be"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2687" data-name="Group 2687" transform="translate(15.638)" opacity="0.5">
+          <g id="Group_2686" data-name="Group 2686">
+            <g id="Group_2685" data-name="Group 2685" clip-path="url(#clip-path-15)">
+              <g id="Group_2684" data-name="Group 2684">
+                <g id="Group_2683" data-name="Group 2683" clip-path="url(#clip-path-16)">
+                  <rect id="Rectangle_141" data-name="Rectangle 141" width="17.465" height="22.172" fill="#0092bd"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2691" data-name="Group 2691" transform="translate(12.142)">
+      <g id="Group_2690" data-name="Group 2690" clip-path="url(#clip-path-17)">
+        <path id="Rectangle_144" data-name="Rectangle 144" d="M0,0,34.373.022,34.4,34.4.022,34.373Z" transform="translate(-11.094 11.079) rotate(-45)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_2703" data-name="Group 2703">
+      <g id="Group_2702" data-name="Group 2702" clip-path="url(#clip-path)">
+        <g id="Group_2696" data-name="Group 2696" transform="translate(12.142)" opacity="0.4">
+          <g id="Group_2695" data-name="Group 2695">
+            <g id="Group_2694" data-name="Group 2694" clip-path="url(#clip-path-13)">
+              <g id="Group_2693" data-name="Group 2693">
+                <g id="Group_2692" data-name="Group 2692" clip-path="url(#clip-path-20)">
+                  <rect id="Rectangle_145" data-name="Rectangle 145" width="26.5" height="22.159" fill="url(#linear-gradient-6)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2701" data-name="Group 2701" transform="translate(12.142 0)" opacity="0.5">
+          <g id="Group_2700" data-name="Group 2700">
+            <g id="Group_2699" data-name="Group 2699" clip-path="url(#clip-path-15)">
+              <g id="Group_2698" data-name="Group 2698" transform="translate(0 0)">
+                <g id="Group_2697" data-name="Group 2697" clip-path="url(#clip-path-22)">
+                  <path id="Rectangle_147" data-name="Rectangle 147" d="M0,0H17.465V22.172H0Z" transform="translate(0 0)" fill="#0092bd"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2705" data-name="Group 2705" transform="translate(24.37 7.327)">
+      <g id="Group_2704" data-name="Group 2704" opacity="0.6" clip-path="url(#clip-path-23)">
+        <path id="Rectangle_150" data-name="Rectangle 150" d="M0,0,24.966.016l.016,24.966L.016,24.966Z" transform="translate(-7.432 7.423) rotate(-45)" fill="#005d9c"/>
+      </g>
+    </g>
+    <g id="Group_2717" data-name="Group 2717">
+      <g id="Group_2716" data-name="Group 2716" clip-path="url(#clip-path)">
+        <g id="Group_2710" data-name="Group 2710" transform="translate(24.37 7.327)" opacity="0.3">
+          <g id="Group_2709" data-name="Group 2709">
+            <g id="Group_2708" data-name="Group 2708" clip-path="url(#clip-path-25)">
+              <g id="Group_2707" data-name="Group 2707">
+                <g id="Group_2706" data-name="Group 2706" clip-path="url(#clip-path-26)">
+                  <rect id="Rectangle_151" data-name="Rectangle 151" width="20.466" height="14.938" fill="url(#linear-gradient-7)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2715" data-name="Group 2715" transform="translate(24.37 7.233)" opacity="0.2">
+          <g id="Group_2714" data-name="Group 2714">
+            <g id="Group_2713" data-name="Group 2713" clip-path="url(#clip-path-9)">
+              <g id="Group_2712" data-name="Group 2712" transform="translate(0)">
+                <g id="Group_2711" data-name="Group 2711" clip-path="url(#clip-path-28)">
+                  <rect id="Rectangle_153" data-name="Rectangle 153" width="11.77" height="14.939" transform="translate(0)" fill="url(#linear-gradient-8)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
