@@ -24,9 +24,9 @@ const Chart = () => {
               <h3>Integration overview</h3>
             </div>
             <div className="col-md-2 offset-md-2  col-sm-4 col-lg-1 col-xs-4">
-              <div className="col-lg-1 col-md-8 col-sm-12">
+              <div className="col-lg-1 col-md-2 col-sm-12">
                 <div className="item" >
-                  <ButtonGroup className="Droping_btn btn-sm btn-secondary">
+                  <ButtonGroup className="Droping_btn btn-xs btn-secondary">
                     <UncontrolledDropdown>
                       <DropdownToggle caret>
                         All
@@ -72,7 +72,7 @@ const Chart = () => {
 
           <div className="row gx-5 align-items-center justify-content-evenly row-cols-2 dashchart" mg={3}>
 
-            <div className="col-md-3 col-lg-2 col-sm-1 ">
+            <div className="col-md-2 col-lg-2 col-sm-1 ">
               <div className="bottom">
                 <div className="featuredChart">
                   <CircularProgressbar

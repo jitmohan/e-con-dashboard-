@@ -1,0 +1,43 @@
+/* 
+.econ_heads {
+    text-decoration: none;
+
+}
+.econ_canbtn {
+    opacity: 1;  
+    width: 25px;
+    height: 25px; 
+    margin-left: 96%;
+}
+.econ_image{
+    width: 97%;
+    height: 88px;
+    margin-top: -12%;
+    margin-bottom: 4%; 
+}
+.econ_bntoon {
+    width: 54% !important;
+    height: 41px;
+    border: none;
+    border: 2px solid #eee;
+    transition: all 0.5s;
+    border-radius: 38px;
+    outline: none;
+    background: linear-gradient(89.94deg, #005D9C 1.23%, #1096BF 99.95%);
+    border: 1px solid #BDBDBD;
+    box-shadow: 0px 5px 4px #005d9c;
+    color: white;
+}
+
+.modalheading{
+margin-left: 40%;
+}
+.modalinfo{
+    margin-left: 18%;
+}
+.btn_center {
+    text-align: center;
+}
+.modalBtn {
+display: none;
+} */

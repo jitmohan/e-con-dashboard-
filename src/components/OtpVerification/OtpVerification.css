@@ -1,0 +1,111 @@
+.econ_Section {
+    background-image: url("../../../public/Assets/econ.png");
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 624px;
+}
+.econ_Section .econ_Container {
+    height: 600px;
+    width: 1250px;
+    overflow: hidden
+}
+.econ_Container {
+    width: 80%;
+}
+.cards {
+    width: 80%;
+    height: 96vh;
+    right: -14%;
+    margin-top: 11%;
+    position: relative;
+    background: transparent;
+    box-shadow: 0px 10px 20px #000000bd;
+    opacity: 1;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 20px;
+}
+.econ_optsize {
+    margin-right: -6%;
+     justify-content: center;
+}
+.econ_optsize input {
+    width: 25px !important;
+    height: 27px !important;
+    text-align: center;
+    margin-right: 15px;
+}
+.econ_box{
+    text-align-last: center;
+    position: relative;
+    top: -53px;
+}
+.form{
+    text-align: center;   
+}
+.econ_icon {
+width: 40%;
+height: 36vh;
+align-self: center;
+}
+.econ_sublines {
+    color: white;
+    font-size: 18px;
+     margin-bottom: 2%;
+}
+.econ_verify {
+    letter-spacing: 0.56px;
+    color: #05B0E2;
+    opacity: 1;
+    font: normal normal bold 26px/20px Gotham;
+}
+.econ_userAlert {
+    text-align: center;
+    color: white;
+    margin-bottom: 7%;
+}
+.econ_alert1 {
+    margin-bottom: -1%;
+}
+.econ_alert {
+    margin-bottom: -1%;
+    
+}
+.econ_butnns {   
+        width: 80%;
+        margin-left:10% ;
+        margin-top: -14%;   
+}
+.econ_btnverify {
+background-color:#0092BD;
+width: 77%;
+margin-top:-2%;
+margin-left: 12%;
+}
+.econ_resending {
+    margin-top: 2%;
+}
+.econ_didNot {
+    position: absolute;
+    right: 48%;
+    font-size: 13px;
+    color: white;
+}
+.econ_ResenddOtp {
+    font-size: 88%;
+    margin-right: -12%;
+}
+.econ_promotiones {
+    font-size: 12px;
+    font-size: 14px;
+    color: white;
+    text-align: end;
+    margin-top: 7%;
+    margin-left: -4%;
+}

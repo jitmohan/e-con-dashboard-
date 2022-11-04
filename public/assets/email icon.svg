@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Group_2" data-name="Group 2" transform="translate(0.5 0.5)">
+    <g id="_4719311_lock_locked_padlock_password_protect_icon" data-name="4719311_lock_locked_padlock_password_protect_icon">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="14" cy="14" r="14" fill="rgba(0,0,0,0)" stroke="#0092bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="_1814108_email_envenlope_letter_mail_icon" data-name="1814108_email_envenlope_letter_mail_icon" transform="translate(-2.1 -5.8)">
+        <g id="Icon-Envelope" transform="translate(8.1 13.8)">
+          <path id="Fill-3" d="M-54.4-214.753l-.613-.347-5.68,3.216a2.984,2.984,0,0,1-2.614,0l-5.68-3.2-.613.347,4.228,2.394-4.228,2.394.613.347,4.228-2.394.839.475a3.933,3.933,0,0,0,1.9.457,3.933,3.933,0,0,0,1.9-.457l.839-.475,4.228,2.394.613-.347-4.228-2.394,4.26-2.412" transform="translate(69.9 218.2)" fill="#0092bd"/>
+          <path id="Fill-4" d="M-55.3-206.2H-68.5a1.4,1.4,0,0,1-1.4-1.377v-9.246a1.4,1.4,0,0,1,1.4-1.377H-55.3a1.4,1.4,0,0,1,1.4,1.377v9.246a1.4,1.4,0,0,1-1.4,1.377ZM-68.53-217.315a.452.452,0,0,0-.468.459v9.246a.452.452,0,0,0,.468.459h13.194a.452.452,0,0,0,.468-.459v-9.246a.452.452,0,0,0-.468-.459Z" transform="translate(69.9 218.2)" fill="#0092bd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

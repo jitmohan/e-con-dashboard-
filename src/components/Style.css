@@ -1,0 +1,346 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ .main {
+    width:100%;
+    height: 100vh;
+    background-size: 100% 624px;
+ }
+ video {
+    width: 101%;
+    height: 100%;
+    object-fit: cover;
+ }
+ 
+.econ_Section {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 99%;
+    height: 99.4%;
+}
+.econ_Section .econ_Container {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top:0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #BDBDBD;
+    background: linear-gradient(107.48deg, #5969FD 0%, rgba(255, 255, 255, 0) 88.88%);
+}
+.econ_Container {
+    width: 80%;
+} 
+.cards {
+    width: 75%;
+    height: 81vh !important;
+    right: -18%;
+    margin-top: 8%;
+    /* position: absolute; */
+    background: transparent !important;
+    box-shadow: 0px 10px 20px #000000bd;
+    opacity: 1;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 20px;
+}
+.econ_box{
+    text-align-last: center;
+    position: relative;
+    top: -53px;
+}
+.form{
+    text-align: center;   
+}
+.econ_icon {
+width: 40%;
+height: 36vh;
+align-self: center;
+}
+.econ_subtit {
+    color: white;
+    font-size: 18px;
+     margin-bottom: 2%;
+     font-size: 17px;
+}
+.econ_welcome {
+    letter-spacing: 0.56px;
+    color: #05B0E2;
+    opacity: 1;
+    font: normal normal bold 26px/20px Gotham;
+}
+.econ_message1 {
+    margin-top: -2%;
+    color: white;
+    font-size: 13px;
+}
+.econ_message2 {
+    position: relative;
+    margin-top: -4%;
+    color: white;
+    margin-bottom: 6%;
+    font-size: 13px;
+
+}
+.econ_userpass {
+    width: 80%;
+    margin-left:10% ;
+    margin-top: -14%;   
+}
+.econ_users{
+    background-color: white;
+}
+.econ_usernameIcon {
+    width: 22px;
+}
+.econ_passwordIcon{
+    width: 22px;
+}
+.econ_btn {
+    background-color:#0092BD;
+    width: 100%;
+    margin-top:-2%;
+}
+.econ_checkboxes {
+    position: absolute;
+    right: 50%;
+    font-size: 13px;
+    color: white;
+    left: 9%;
+}
+.econ_forgotPassword {
+    font-size: 88%;
+    margin-right: 16%;
+}
+.econ_checkinandforgot {
+    margin-top: 2%;
+}
+.econ_advertise {
+     font-size: 14px;
+    color: white;
+    text-align: end;
+    margin-top: 1%;
+    margin-left: -6%;
+}
+
+/* RESET PASSWORD */
+.econ_subtitless {
+    color: white;
+    font-size: 16px;
+     margin-bottom: 2%;
+}
+.econ_reset {
+    letter-spacing: 0.56px;
+    color: #05B0E2;
+    opacity: 1;
+    font: normal normal bold 26px/20px Gotham;
+}
+.econ_usermsg {
+text-align: center;
+font: normal normal medium 20px/20px Gotham;
+letter-spacing: 0.4px;
+color: #FFFFFF;
+opacity: 1;
+margin-bottom: 6%;
+font-size: 13px;
+}
+.econ_cofirmpass {
+    width: 80%;
+    margin-left:10% ;
+    margin-top: -14%;   
+}
+.econ_password{
+    background-color: white;
+}
+.econ_userIcon {
+    width: 22px;
+}
+.econ_eyeIcon {
+width: 22px;
+}
+.econ_confirm {  
+    background-color:#0092BD;
+    width: 100%;
+    margin-top:-2%; 
+}
+.econ_promotion {
+    font-size: 12px;
+    font-size: 14px;
+    color: white;
+    text-align: end;
+    margin-top: 1%;
+    margin-left: -4%;
+}
+
+/* MODAL */
+.econ_heads {
+    text-decoration: none;
+}
+.econ_canbtn {
+    opacity: 1;  
+    width: 25px;
+    height: 25px; 
+    margin-left: 96%;
+}
+.econ_image{
+    width: 97%;
+    height: 88px;
+    margin-top: -8%;
+    margin-bottom: 4%; 
+}
+.econ_bntoon {
+    width: 54% !important;
+    height: 41px;
+    border: none;
+    border: 2px solid #eee;
+    transition: all 0.5s;
+    border-radius: 38px;
+    outline: none;
+    background: linear-gradient(89.94deg, #005D9C 1.23%, #1096BF 99.95%);
+    border: 1px solid #BDBDBD;
+    box-shadow: 0px 5px 4px #005d9c;
+    color: white;
+    margin-bottom: 4%;
+}
+.modalheading{
+margin-left: 40%;
+}
+.modalinfo{
+    margin-left: 18%;
+}
+.btn_center {
+    text-align: center;
+}
+.modalBtn {
+display: none;
+}
+
+/* forget password */
+.econ_subline {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 4%;
+    letter-spacing: 0.56px;
+    font: normal normal medium 28px/20px Gotham;
+    letter-spacing: 0.56px;
+    color: #F9F9F9;
+    opacity: 1;
+}
+.econ_forpass {
+font: normal normal bold 22px/20px Gotham;
+letter-spacing: 0.56px;
+color: #05B0E2;
+opacity: 1;
+margin-bottom: 3%;
+}
+.econ_messagge {
+    text-align: center;
+    color: white;
+    margin-bottom: 7%;
+}
+.econ_msg1 {
+    margin-bottom: -1%;
+    font-size: 14px;
+}
+.econ_msg2 {
+    font-size: 14px;
+}
+.econ_msg {
+    margin-bottom: -1%;
+    font-size: 14px;
+}
+.econ_mailbtn {
+    width: 80%;
+    margin-left:10% ;
+    margin-top: -14%;   
+}
+.econ_email{
+    background-color: white;
+}
+.econ_mail {
+    width: 22px;
+}
+.econ_otpbtn {
+background-color:#0092BD;
+width: 100%;
+margin-top:-2%;
+}
+.econ_adver {
+    font-size: 12px;
+    font-size: 14px;
+    color: white;
+    text-align: end;
+    margin-top: 1%;
+    margin-left: -4%;
+}
+
+/* OTP VERIFICATION */
+.econ_sublines {
+    color: white;
+    font-size: 16px;
+     margin-bottom: 2%;
+}
+.econ_verify {
+    letter-spacing: 0.56px;
+    color: #05B0E2;
+    opacity: 1;
+    font: normal normal bold 26px/20px Gotham;
+}
+.econ_userAlert {
+    text-align: center;
+    color: white;
+    margin-bottom: 7%;
+    font-size: 13px;
+}
+.econ_alert1 {
+    margin-bottom: -1%;
+}
+.econ_alert {
+    margin-bottom: -1%;   
+}
+.econ_butnns {   
+        width: 80%;
+        margin-left:10% ;
+        margin-top: -14%;   
+}
+.econ_optsize {
+    margin-right: -6%;
+     justify-content: center;
+}
+.econ_optsize input {
+    width: 25px !important;
+    height: 27px !important;
+    text-align: center;
+    margin-right: 15px;
+}
+.econ_btnverify {
+background-color:#0092BD;
+width: 77%;
+margin-top:-2%;
+margin-left: 12%;
+}
+.econ_resending {
+    margin-top: 2%;
+}
+.econ_didNot {
+    position: absolute;
+    right: 48%;
+    font-size: 13px;
+    color: white;
+    left: 6%;
+}
+.econ_ResenddOtp {
+    font-size: 88%;
+    margin-right: -12%;
+}
+.econ_promotiones {
+    font-size: 12px;
+    font-size: 14px;
+    color: white;
+    text-align: end;
+    /* margin-top: 7%; */
+    margin-left: -4%;
+} 

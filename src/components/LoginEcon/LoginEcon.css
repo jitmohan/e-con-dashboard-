@@ -1,0 +1,109 @@
+/* .econ_Section {
+    background-image: url("../../../public/Assets/econ.png");
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 624px;
+}
+.econ_Section .econ_Container {
+    height: 600px;
+    width: 1250px;
+    overflow: hidden
+}
+.econ_Container {
+    width: 80%;
+}
+
+.cards {
+    width: 80%;
+    height: 96vh;
+    right: -14%;
+    margin-top: 4%;
+    position: relative;
+    background: transparent;
+    box-shadow: 0px 10px 20px #000000bd;
+    opacity: 1;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 20px;
+}
+.econ_box{
+    text-align-last: center;
+    position: relative;
+    top: -53px;
+}
+.form{
+    text-align: center;   
+}
+.econ_icon {
+width: 40%;
+height: 36vh;
+align-self: center;
+}
+.econ_subtit {
+    color: white;
+    font-size: 18px;
+     margin-bottom: 2%;
+}
+.econ_welcome {
+    letter-spacing: 0.56px;
+    color: #05B0E2;
+    opacity: 1;
+    font: normal normal bold 26px/20px Gotham;
+}
+.econ_message1 {
+    margin-top: -4%;
+    color: white;
+}
+.econ_message2 {
+    position: relative;
+    margin-top: -5%;
+    color: white;
+}
+.econ_userpass {
+    width: 80%;
+    margin-left:10% ;
+    margin-top: -14%;   
+}
+.econ_users{
+    background-color: white;
+}
+.econ_usernameIcon {
+    width: 22px;
+}
+.econ_passwordIcon{
+    width: 22px;
+}
+.econ_btn {
+    background-color:#0092BD;
+    width: 100%;
+    margin-top:-2%;
+}
+.econ_checkboxes {
+    position: absolute;
+    right: 50%;
+    font-size: 13px;
+    color: white;
+}
+.econ_forgotPassword {
+    font-size: 88%;
+    margin-right: -12%;
+}
+.econ_checkinandforgot {
+    margin-top: 2%;
+}
+.econ_advertise {
+    font-size: 12px;
+    font-size: 14px;
+    color: white;
+    text-align: end;
+    margin-top: 1%;
+    margin-left: -4%;
+}
+
+ */
