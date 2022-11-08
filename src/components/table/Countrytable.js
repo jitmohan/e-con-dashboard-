@@ -37,10 +37,10 @@ const Countrytable = () => {
       name: "Action",
       cell: (row) => (
         <button
-          className="btn btn-sm btn-info"
+          className="btn btn-sm btn-success"
           onClick={() => alert(row.alpha2Code)}
         >
-          EDIT
+          Success
         </button>
       ),
     },
@@ -53,19 +53,19 @@ const Countrytable = () => {
   useEffect(() => {
     const result = countries.filter((country) => {
       return country.name.toLowerCase().match(search.toLowerCase());
-    })
+    });
     setFilterCountries(result);
   }, [search]);
 
   return (
-    <>
+    <div className="shadow p-3 mb-2 bg-white rounded table">
       <DataTable
         title="country list"
         columns={columns}
         data={filterCountries}
         pagination
         fixedHeader
-        fixedHeaderScrollHeight="500px"
+        fixedHeaderScrollHeight="300px"
         selectableRows
         selectableRowsHighlight
         highlightOnHover
@@ -81,7 +81,7 @@ const Countrytable = () => {
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
-    </>
+    </div>
   );
 };
 

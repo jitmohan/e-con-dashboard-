@@ -1,29 +1,7 @@
-// .donut {
-//     display: flex;
-//     justify-content: space-around;
-//     width: 105%;
-//     margin-right: 31%;
-//     margin-left: 39%;
-//     margin-top: 11%;
-// }
-// .featured{
-//   width: 50%;
-// }
-// .title {
-//     font-size: 1.5rem;
-// }
-// .stroke {
-//     margin-left: 10%;
-//     margin-right: 20%;
-// }
-// .calender {
-//     margin-left: -56%;
-//     margin-top: -36%;
-
-// }
+@import "rsuite/dist/rsuite.css"; 
 
 .dashchart{
-    margin-top: 5% !important;
+    margin-top: 2% !important;
 }
  
 .rightbar{
@@ -38,7 +16,7 @@
     margin-left: 50% !important;
 }
 .chartbar {
-    height: 50vh;
+    height: 45vh;
     // border-bottom: 2px solid #46c2ba;
     
     font-size: 14px;
@@ -63,8 +41,6 @@
             margin-left: -3%;
             margin-bottom: -14%;
         }
-      
-     
         }
         .search {
             display: flex;
@@ -102,6 +78,8 @@
                 align-items: centre;
                 position: relative;
 
+                
+
                 .icon {
                     font-size: 20px;
                 }
@@ -125,35 +103,40 @@
                 }
 
                 .calender{
-                    width: 30px;
-                    height: 30px;
-                    // border-radius: 50%;
-                    position: relative;
-                    top: -6px;
-                    margin-left: 3%;
-                    margin-left: -56%;
-                    margin-top: -36%;
+                //     width: 30px;
+                //     height: 30px;
+                //     border-radius: 50%;
+                //     position: relative;
+                //     top: -6px;
+                //     margin-left: 3%;
+                //     margin-left: -56%;
+                //     margin-top: -36%;
+
+                    .rs-anim-fade .rs-anim-in .rs-picker-daterange-menu .rs-picker-menu .placement-bottom-start {
+                        left: 635.45px !important;
+                    }
                 }
             }
             
         }
+        .bottom-title{
+            display: flex;
+            margin-left: 30px;
+            gap: 3%;
+
+            .bulletPoint{
+                margin-top: 3px;
+                color: #21d29f;
+            }
+            .bulletPoint1{
+                margin-top: 3px;
+                color: #FF994E;
+            }
+            .bulletPoint2{
+                margin-top: 3px;
+                color:#FF7B7B;
+            }
+        }
     }
-    // .donut {
-    //     display: flex;
-    //     justify-content: space-around;
-    //     width: 105%;
-    //     margin-right: 31%;
-    //     margin-left: 39%;
-    //     margin-top: 11%;
-    // }
-    // .featured{
-    //   width: 50%;
-    // }
-    // .title {
-    //     font-size: 1.5rem;
-    // }
-    // .stroke {
-    //     margin-left: 10%;
-    //     margin-right: 20%;
-    // }
+    
  
